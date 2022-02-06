@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Stinky-c/Stinky-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+Name: **Bucky** <br>
+Contact: None <br>
+If you don't need me just don't bother me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+I am a:
+1. Server operator
+1. Python newbie
+1. Modded MC player
+1. Lazy sucker 
+
+
+TODO:
+1. Master python
+1. Learn ruby 
+1. Learn a [life skill...](https://www.google.com/search?q=how+to+be+productive)
