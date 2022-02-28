@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+<hr>
+
+[![itJustWorks!](svg/it-just-works-somehow.svg)](https://github.com/Stinky-c/Stinky-c)
+
 
 <hr>
 
@@ -17,5 +22,5 @@ I am a:
 
 TODO:
 1. Master python
-1. Learn ruby 
+1. Learn Ruby 
 1. Learn a [life skill...](https://www.google.com/search?q=how+to+be+productive)
